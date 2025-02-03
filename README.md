@@ -77,7 +77,8 @@ Follow these steps to set up the project locally:
 git clone
 ```   
 Move into the project directory:
-    
+
+### Run Seeders
 ```bash
 cd UKK-Inventaris-Barangg
 ```
