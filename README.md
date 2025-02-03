@@ -112,6 +112,12 @@ php artisan key:generate
 php artisan migrate
 ```
 
+Seeders
+```bash
+php artisan db:seed --class=AdminSeeders
+```
+
+
 ### 6️⃣ Compile Frontend Assets (Optional)
 If the project uses custom CSS or JavaScript:
 ```bash
