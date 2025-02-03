@@ -74,12 +74,12 @@ Follow these steps to set up the project locally:
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/AxelMardiyo/UKK-Inventaris-Barang.git
+git clone
 ```   
 Move into the project directory:
     
 ```bash
-cd UKK-Inventaris-Barang
+cd UKK-Inventaris-Barangg
 ```
 
 ### 2️⃣ Install Backend Dependencies
